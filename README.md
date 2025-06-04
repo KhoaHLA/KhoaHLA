@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing B.S. in Data Science, University of Infomation Technology (UIT). I have a passion for data analytics, machine learning, and artificial intelligence, and look forward to using my knowledge and abilities in these areas. I am motivated to make contributions to practical projects, keep abreast of new technologies, and work in fast-paced teams to solve complex problems through data-driven solutions. 
+I'm currently pursuing B.S. in Data Science, University of Infomation Technology (UIT). I have a passion for data analytics, machine learning, and artificial intelligence, and look forward to using my knowledge and abilities in these areas. I am motivated to make contributions to practical projects, keep abreast of new technologies, and work in fast-paced teams to solve complex problems through data-driven solutions. Also, I'm seeking for an internship programs of Data Engineer/Data Science
 
 
 ## 🌐 Socials:
